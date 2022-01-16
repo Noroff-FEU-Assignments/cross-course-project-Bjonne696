@@ -1,3 +1,31 @@
+header {
+  background-color: #5f2f80;
+}
+
+header a {
+  color: #fc9935;
+}
+
 body {
-  background: rgb(252, 153, 53);
+  background: #fc9935;
+}
+
+.cta-button {
+  background-color: #5f2f80;
+  color: #fc9935;
+}
+
+.membersgames {
+  background-color: #5f2f80;
+  color: #fc9935;
+}
+
+.newgames {
+  background-color: #5f2f80;
+  color: #fc9935;
+}
+
+.support {
+  background-color: #5f2f80;
+  color: #fc9935;
 }
