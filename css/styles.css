@@ -1,5 +1,8 @@
 header {
-  background-color: #5f2f80;
+  border-right: calc(2 * 30px * 1) solid #fc9935;
+  border-bottom: 20px solid #5f2f80;
+  border-top: 20px solid #5f2f80;
+  display: inline-block;
 }
 
 header a {
@@ -29,3 +32,12 @@ body {
   background-color: #5f2f80;
   color: #fc9935;
 }
+.triangle-up-equilateral {
+  border-left: 20px solid #5f2f80;
+  border-right: 20px solid #5f2f80;
+  border-bottom: calc(2 * 20px * 0.866) solid #fc9935;
+  border-top: 20px solid #5f2f80;
+  display: inline-block;
+}
+
+background-color: #5f2f80;
