@@ -1,8 +1,7 @@
 header {
-  border-right: calc(2 * 30px * 1) solid #fc9935;
+  border-right: calc(2 * 50px) solid #fc9935;
   border-bottom: 20px solid #5f2f80;
   border-top: 20px solid #5f2f80;
-  display: inline-block;
 }
 
 header a {
