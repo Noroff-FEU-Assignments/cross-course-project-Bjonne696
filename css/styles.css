@@ -8,7 +8,7 @@ header {
 .logo {
   position: absolute;
   top: 2vh;
-  left: 10vw;
+  left: 1.5vw;
 }
 
 body {
@@ -18,11 +18,18 @@ body {
 .cta-button {
   background-color: #5f2f80;
   color: #fc9935;
+  border-top-right-radius: 12vh;
+  border-top-left-radius: 2vh;
+  border-bottom-right-radius: 2vh;
+  border-bottom-left-radius: 12vh;
+  padding: 2vh;
+  width: 180vh;
+  height: 14vh;
 }
 
 .membersgames {
   background-color: #5f2f80;
-  color: #fc9935;
+  color: #bb7733;
 }
 
 .newgames {
