@@ -64,6 +64,8 @@ body {
   padding: 10px 40px;
   border-radius: 45px;
   border-color: #039141;
+  margin: 20px;
+  max-height: 15vh;
 }
 
 .cta-no {
@@ -75,6 +77,8 @@ body {
   padding: 10px 40px;
   border-radius: 45px;
   border-color: #d13838;
+  margin: 20px;
+  max-height: 15vh;
 }
 
 /* Links */
@@ -162,6 +166,31 @@ textarea {
   background-color: #7d43a3;
   color: #fc9935;
   font-size: 2.5em;
+}
+
+/* Checkout page */
+
+.order {
+  color: #7d43a3;
+}
+
+.checkout {
+  display: flex;
+  justify-content: space-around;
+  background-color: #7d43a3;
+  padding: 40px;
+  border-top-right-radius: 12vh;
+  border-top-left-radius: 2vh;
+  border-bottom-right-radius: 2vh;
+  border-bottom-left-radius: 12vh;
+  color: #fc9935;
+  font-size: 1.5em;
+}
+
+.complete {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
 }
 
 .support {
