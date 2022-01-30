@@ -31,14 +31,16 @@ nav li {
 
 .nav {
   position: absolute;
-  top: 100px;
-  left: 92vw;
+  top: 7vh;
+  right: 5vw;
+  color: #fc9935;
+  font-size: 1.5em;
 }
 
 header {
   border-left: calc(2 * 49vw) solid #fc9935;
-  border-bottom: 60px solid #5f2f80;
-  border-top: 60px solid #5f2f80;
+  border-bottom: 60px solid #7d43a3;
+  border-top: 60px solid #7d43a3;
   border-right: 0px solid transparent;
   margin-bottom: 60px;
 }
@@ -84,7 +86,7 @@ a {
 /* Home Page */
 
 .home {
-  background-color: #5f2f80;
+  background-color: #7d43a3;
   color: #fc9935;
   border-top-right-radius: 12vh;
   border-top-left-radius: 2vh;
@@ -101,10 +103,32 @@ a {
 
 .home_content {
   position: absolute;
-  top: 200px;
-  left: 1000px;
+  top: 22vh;
+  right: 15vh;
   color: #fc9935;
-  font-size: 1.5em;
+  font-size: 1.2em;
+}
+
+.selection {
+  display: flex;
+  justify-content: space-around;
+}
+.membersgames {
+  block-size: 25%;
+  margin: 25px;
+  border-radius: 25px;
+  padding: 20px;
+  background-color: #7d43a3;
+  color: #bb7733;
+}
+
+.newgames {
+  margin: 25px;
+  border-radius: 25px;
+  padding: 20px;
+  padding: 20px;
+  background-color: #7d43a3;
+  color: #fc9935;
 }
 
 /* Account Creation */
@@ -116,17 +140,7 @@ textarea {
   border-radius: 5px;
 }
 
-.membersgames {
-  background-color: #5f2f80;
-  color: #bb7733;
-}
-
-.newgames {
-  background-color: #5f2f80;
-  color: #fc9935;
-}
-
 .support {
-  background-color: #5f2f80;
+  background-color: #7d43a3;
   color: #fc9935;
 }
