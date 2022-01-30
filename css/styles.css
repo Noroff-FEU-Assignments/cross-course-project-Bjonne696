@@ -29,6 +29,12 @@ nav li {
   display: inline-block;
 }
 
+.nav {
+  position: absolute;
+  top: 100px;
+  left: 92vw;
+}
+
 header {
   border-left: calc(2 * 49vw) solid #fc9935;
   border-bottom: 60px solid #5f2f80;
@@ -45,6 +51,28 @@ header {
 
 body {
   background-color: #fc9935;
+}
+
+.cta-yes {
+  background-color: #039141;
+  color: #fc9935;
+  font-family: "Orange kid";
+  font-size: 1.5em;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border-radius: 45px;
+  border-color: #039141;
+}
+
+.cta-no {
+  background-color: #d13838;
+  color: #fc9935;
+  font-family: "Orange kid";
+  font-size: 1.5em;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border-radius: 45px;
+  border-color: #d13838;
 }
 
 /* Links */
@@ -69,6 +97,14 @@ a {
   padding: 2vh;
   width: 92vw;
   height: 14vh;
+}
+
+.home_content {
+  position: absolute;
+  top: 200px;
+  left: 1000px;
+  color: #fc9935;
+  font-size: 1.5em;
 }
 
 /* Account Creation */
