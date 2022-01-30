@@ -2,7 +2,9 @@ header {
   border-left: calc(2 * 49vw) solid #fc9935;
   border-bottom: 60px solid #5f2f80;
   border-top: 60px solid #5f2f80;
-  background-size: 100%;
+  border-right: 0px solid transparent;
+  display: inline-block;
+  margin-bottom: 60px;
 }
 
 .logo {
