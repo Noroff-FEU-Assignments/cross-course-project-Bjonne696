@@ -1,3 +1,28 @@
+@font-face {
+  font-family: "Crackman";
+  src: url("../fonts/crackman.ttf") format("truetype");
+  font-family: "Orange kid";
+  src: url("../fonts/orange\ kid.ttf") format("truetype");
+  font-family: "Youre gone";
+  src: url("../fonts/youre\ gone.otf") format("truetype");
+}
+
+body {
+  background: #fc9935;
+}
+
+h1 {
+  font-family: "Crackman";
+}
+
+h2 {
+  font-family: "Youre gone";
+}
+
+h3 {
+  font-family: "Orange kid";
+}
+
 header {
   border-left: calc(2 * 49vw) solid #fc9935;
   border-bottom: 60px solid #5f2f80;
@@ -11,10 +36,6 @@ header {
   position: absolute;
   top: 2vh;
   left: 1.5vw;
-}
-
-body {
-  background: #fc9935;
 }
 
 .cta-button {
