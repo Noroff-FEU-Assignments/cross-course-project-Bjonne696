@@ -53,6 +53,11 @@ header {
 
 body {
   background-color: #fc9935;
+  margin: 0px;
+}
+
+footer {
+  background-color: #7d43a3;
 }
 
 .cta-yes {
@@ -92,17 +97,18 @@ a {
 .home {
   background-color: #7d43a3;
   color: #fc9935;
-  border-top-right-radius: 12vh;
-  border-top-left-radius: 2vh;
-  border-bottom-right-radius: 2vh;
-  border-bottom-left-radius: 12vh;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 250px;
+  border-bottom-right-radius: 250px;
+  border-bottom-left-radius: 25px;
+  border: 0px;
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 20px;
-  padding: 2vh;
-  width: 92vw;
-  height: 14vh;
+  padding: 500px;
+  width: 1865px;
+  height: 140px;
 }
 
 .home_content {
