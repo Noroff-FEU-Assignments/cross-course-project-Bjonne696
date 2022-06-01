@@ -97,26 +97,34 @@ a {
 .home {
   background-color: #7d43a3;
   color: #fc9935;
-  border-top-right-radius: 25px;
-  border-top-left-radius: 250px;
-  border-bottom-right-radius: 250px;
-  border-bottom-left-radius: 25px;
+  border-top-right-radius: 80px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 80px;
   border: 0px;
   margin-top: 20px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 20px;
-  padding: 500px;
+  padding: 90px;
   width: 1865px;
   height: 140px;
+  box-shadow:5px 15px 45px  #000000;
 }
 
-.home_content {
+.home_content_a {
   position: absolute;
-  top: 22vh;
-  right: 15vh;
+  top: 235px;
+  left: 150px;
+
+}
+
+.home_content_b {
+  position: absolute;
+  top: 165px;
+  right: 180px;
   color: #fc9935;
-  font-size: 1.2em;
+  font-size: 25px;
 }
 
 .selection {
@@ -126,19 +134,20 @@ a {
 
 .membersgames {
   margin: 25px;
-  border-radius: 25px;
+  border-radius: 50px;
   padding: 20px;
   background-color: #7d43a3;
   color: #fc9935;
+  box-shadow:5px 15px 45px  #000000;
 }
 
 .newgames {
   margin: 25px;
-  border-radius: 25px;
-  padding: 20px;
+  border-radius: 50px;
   padding: 20px;
   background-color: #7d43a3;
   color: #fc9935;
+  box-shadow:5px 15px 45px  #000000;
 }
 
 /* Account Creation */
