@@ -315,17 +315,7 @@ input[type='text'] {
   width:300px;
 }
 
-.formerror {
-  color:#d13838;
-  font-size: 25px;
-  text-shadow: 10px 15px 5px  #000000;
-}
 
-.formsubmessage {
-  color:#039141;
-  font-size: 25px;
-  text-shadow: 10px 15px 5px  #000000;
-}
 
 .forminputtextarea {
   color: #fc9935;

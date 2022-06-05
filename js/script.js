@@ -1,26 +1,8 @@
-const name = document.getElementById('name')
-const phone = document.getElementById('phone')
-const email = document.getElementById('email')
-const message = document.getElementById('message')
-const form = document.getElementById('form')
-const errorElement = document.getElementById('error')
-
-form.addEventListener('submit', (e) => {
-  let messages = []
-  if (name.value === '' || name.value == null) {
-    messages.push('Please enter your name, at least 4 characters.')
-  }
-
-  if (phone.value === '' || phone.value == null) {
-    messages.push('phone number is required')
-  }
-
-  if (email.value === '' || email.value == null) {
-    messages.push('Email is required')
-  }
-
-  if (messages.length > 0) {
-    e.preventDefault()
-    errorElement.innerText = messages.join(', ')
-  }
-})
+(function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:3001722,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
