@@ -6,6 +6,7 @@
     <meta name="description" content="Buy your games @Game Hub, and get huge benefits by subscribing to our membership">
     <title>Game Hub | Acount Creation</title>
     <link href="css/styles.css" rel="stylesheet"/>
+    <script src="/js/creation.js"></script>
   </head>
   <body>
     <header>
@@ -24,31 +25,33 @@
         </nav>
     </header>
     <main>
-        <form class = "form-container" method="post" action="#">
+        <form class = "form-container" method="post" action="/account_creation.html">
+
+          <div id="error"></div>
 
           <div class="form-display">
             <label  class="form-align" for="name"><h2>Full name</h2></label>
-            <input class="account-form" type="text" id="creation-form" name="name">
+            <input class="account-form" type="text" id="name" name="name">
           </div>
 
           <div class="form-display">
             <label class="form-align" for="address"><h2>Address</h2></label>
-            <input class="account-form" type="text" id="creation-form" name="adress">
+            <input class="account-form" type="text" id="address" name="address">
           </div>
 
           <div class="form-display">
             <label class="form-align" for="phone"><h2>Phone</h2></label>
-            <input class="account-form" type="text" id="creation-form" name="phone">
+            <input class="account-form" type="text" id="phone" name="phone">
           </div>
 
           <div class="form-display">
             <label class="form-align" for="email"><h2>Email</h2></label>
-            <input class="account-form" type="text" id="creation-form" name="email">
+            <input class="account-form" type="text" id="email" name="email">
           </div>
 
           <div class="form-display">
             <label class="form-align" for="credit card"><h2>Credit Card</h2></label>
-            <input class="account-form" type="text" id="creation-form" name="credit card">
+            <input class="account-form" type="text" id="credit card" name="credit card">
           </div>
 
           <div class="form-display">
@@ -58,7 +61,7 @@
 
           <div class="form-display">
             <label class="form-align" for="avatar"><h2>Avatar</h2></label>
-          <select class="account-form" id="creation-form">
+          <select class="account-form" id="avatar">
             <option value="Cat">Cat Image</option>
             <option value="Dog">Dog Image</option>
             <option value="Gamer Kid">Gamer Kid Image</option>
@@ -71,6 +74,7 @@
             <input type="checkbox" name="" id="email-updates">
             <input type="submit" value="Send Now" class="cta-yes" id="cta" />
           </div>
+
         </form>
     </main>
     <section class="support">
