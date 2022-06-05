@@ -24,15 +24,58 @@
         </nav>
     </header>
     <main>
-      <div class="faq">
-        <h1>TAKE A LOOK AND SEE IF OUR FAQ CAN HELP YOU, IF NOT SE BELLOW FOR MORE INFO!</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, asperiores, itaque ab animi, numquam voluptatum dolore molestiae porro provident harum sit velit maxime voluptates quaerat. Sed nobis earum cum numquam!</h3>
-      </div>
+
+      <h1 class="contact-head">
+        Contact us if you need help!
+      </h1>
+        <form class = "form-container" action="#" method="GET">
+
+          <div class="form-display">
+            <label  class="form-align" for="name"><h2>Full name</h2></label>
+            <input class="account-form" type="text" id="creation-form" name="name" placeholder="Full Name">
+          </div>
+          <div class="formerror" id="formnameerror">
+            Please enter your name, at least 4 characters.
+          </div>
+
+          <div class="form-display">
+            <label class="form-align" for="phone"><h2>Phone</h2></label>
+            <input class="account-form" type="text" id="creation-form" name="phone" placeholder="Phone Number">
+          </div>
+          <div class="formerror" id="formemailerror">
+            Please enter a valid phone number, remember to use area code for your country.
+          </div>
+
+          <div class="form-display">
+            <label class="form-align" for="email"><h2>Email</h2></label>
+            <input class="account-form" type="text" id="creation-form" name="email" placeholder="Email Adress">
+          </div>
+          <div class="formerror" id="formemailerror">
+            Please enter a valid email address, remember to use the "@" and
+            "." characters
+          </div>
+
+          <div class="form-display">
+            <label class="form-align" for="message"><h2>Message</h2></label>
+            <textarea class="account-form" name="message" id="message" placeholder="Please Write Your Message"></textarea>
+          </div>
+
+          <div class="formerror" id="formmessageerror">
+            Pleas write your message, at least 6 characters.
+          </div>
+
+          <div class="form-display">
+            <input type="submit" value="Send Now" class="cta-yes" id="cta" />
+          </div>
+          <div class="formsubmessage" id="formsubmessage">
+            Your contact form was submitted. Thank you, we will get in touch
+            with you soon.
+          </div>
+        </form>
+</div>
+</section>
+
+
       <section class="support">
         <h3>If you need help or support click this link!</h3>
         <h3>Several email links to support</h3>
