@@ -24,27 +24,57 @@
         </nav>
     </header>
     <main>
-        <form method="post">
-          <label for="name">Full name</label>
-          <input type="text" id="name" name="name">
-          <label for="address">Address</label>
-          <input type="address" id="address" name="adress">
-          <label for="phone">Phone</label>
-          <input type="phone" id="phone" name="phone">
-          <label for="email">Email</label>
-          <input type="email" id="email" name="email">
-          <label for="credit card">Credit Card</label>
-          <input type="credit card" id="credit card" name="credit card">
-          <label for="bio">Bio</label>
-          <textarea name="bio" id="bio"></textarea>
-          <label for="avatar">Avatar</label>
-          <select id="avatar">
+        <form class = "form-container" method="post">
+          <div class="form-display">
+            <label for="name"><h2>Full name</h2></label>
+            <input class="account-form" type="text" id="name" name="name">
+
+          </div>
+          <div class="form-display">
+            <label for="address"><h2>Address</h2></label>
+            <input class="account-form" type="text" id="address" name="adress">
+
+          </div>
+          <div class="form-display">
+            <label for="phone"><h2>Phone</h2></label>
+            <input class="account-form" type="text" id="phone" name="phone">
+
+          </div>
+          <div class="form-display">
+            <label for="email"><h2>Email</h2></label>
+            <input class="account-form" type="text" id="email" name="email">
+
+          </div>
+          <div class="form-display">
+            <label for="credit card"><h2>Credit Card</h2></label>
+            <input class="account-form" type="text" id="credit card" name="credit card">
+
+          </div>
+          <div class="form-display">
+            <label for="bio"><h2>Bio</h2></label>
+            <textarea class="account-form" name="bio" id="bio"></textarea>
+
+          </div>
+          <div class="form-display">
+            <label for="avatar"><h2>Avatar</h2></label>
+          <select class="account-form" id="avatar">
             <option value="Cat">Cat Image</option>
             <option value="Dog">Dog Image</option>
             <option value="Gamer Kid">Gamer Kid Image</option>
             <option value="Cool Frog">Cool Frog Image</option>
             <option value="Wizard King">Wizard King Image</option>
           </select>
+            
+
+          </div>
+
+
+
+
+
+
+
+          
           <input type="checkbox" name="" id="email-updates">
           <label for="email-updates">Sign up for email updates.</label>
           <input type="submit" value="Send Now" class="cta-yes" />

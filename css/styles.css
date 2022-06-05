@@ -160,6 +160,39 @@ textarea {
   border-radius: 5px;
 }
 
+.form-container {
+  color: #7d43a3;
+  }
+
+.label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  margin-bottom: 10px;
+
+}
+
+.account-form {
+  padding: 90px;
+  background-color: #7d43a3;
+  color: #fc9935;
+  
+}
+input[type='text'] { 
+  font-size: 24px;
+  font-family:"Orange kid", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
 /* Account */
 
 .account {
