@@ -164,25 +164,45 @@ textarea {
   color: #7d43a3;
   }
 
-.label {
+.form-display {
+  margin-bottom: 10px;
+  margin-left: 90px;
+}
+
+.form-align {
   display: inline-block;
   width: 150px;
   text-align: right;
-  margin-bottom: 10px;
-
 }
 
 .account-form {
-  padding: 90px;
+  padding: 5px;
   background-color: #7d43a3;
   color: #fc9935;
-  
+  margin-left: 300px;
+  margin-right: 300px;  
 }
 input[type='text'] { 
   font-size: 24px;
   font-family:"Orange kid", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#fuckme {
+  margin-left:225px;
+}
+
+#email-updates{
+  margin-left:50px;
+}
+
+#creation-form {
+  width: 200px;
+}
+
+#bio {
+  width:200px;
+  height: 100px;
+}
 
 
 
