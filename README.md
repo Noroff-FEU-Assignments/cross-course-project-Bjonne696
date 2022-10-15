@@ -1,5 +1,11 @@
 # cross-course-project-Bjonne696
 
+![Component 13 – 10](https://user-images.githubusercontent.com/83508588/195995914-a686036c-a434-438c-8713-bde84c062f34.png)
+
+
+![Component 15 – 2](https://user-images.githubusercontent.com/83508588/195995880-8303060e-6b35-463f-988a-3d037fa7c9b0.png)
+
+
 
 A simple overview of the use/purpose of the project.
 
