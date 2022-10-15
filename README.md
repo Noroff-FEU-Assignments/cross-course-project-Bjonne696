@@ -19,7 +19,7 @@ Lists new titles available for purchase, and if an acount is created it will als
 
 HTML
 CSS
-Javascript
+and Javascript
 
 ## Getting Started
 
