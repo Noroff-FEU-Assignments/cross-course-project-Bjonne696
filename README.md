@@ -30,7 +30,7 @@ No dependecies are needed, everything should be available in the repository.
 Clone the repo:
 
 ```bash
-[a link](https://github.com/Noroff-FEU-Assignments/cross-course-project-Bjonne696.git)
+https://github.com/Noroff-FEU-Assignments/cross-course-project-Bjonne696.git
 ```
 
 
