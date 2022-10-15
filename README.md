@@ -1,48 +1,38 @@
-# cross-course-project-Bjonne696
-
-![Component 13 – 10](https://user-images.githubusercontent.com/83508588/195995914-a686036c-a434-438c-8713-bde84c062f34.png)![Component 15 – 2](https://user-images.githubusercontent.com/83508588/195995880-8303060e-6b35-463f-988a-3d037fa7c9b0.png)
+# cross-course-project-Bjonne696 GameHub
 
 
 ![Component 15 – 2](https://user-images.githubusercontent.com/83508588/195995880-8303060e-6b35-463f-988a-3d037fa7c9b0.png)
+![Component 13 – 10](https://user-images.githubusercontent.com/83508588/195995914-a686036c-a434-438c-8713-bde84c062f34.png)
 
 
-
-A simple overview of the use/purpose of the project.
+The purpose of this project was firstly to demonstrate my skills in HTML and CSS.
+Secondly this project was used to demonstrate skills in interaction design and Javascript
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The project is suposed to be a eCommerce website, where you coud trade in old games with other users.
+It includes acount creation with avatars as profile pictures.
+Lists new titles available for purchase, and if an acount is created it will also then list games that are available for a dicounted price.
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+HTML
+CSS
+Javascript
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+No dependecies are needed, everything should be available in the repository.
 
-1. Clone the repo:
+Clone the repo:
 
 ```bash
 git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
 
-2. Install the dependencies:
-
-```
-npm install
-```
 
 ### Running
 
