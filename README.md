@@ -42,7 +42,9 @@ npm run start
 
 This project is far from complete.
 
-Needs work on makeing the site responsive
+Needs work on making the site responsive.
+Needs work with general css trough the whole project.
+Needs work on HTML in
 
 ## Contact
 
