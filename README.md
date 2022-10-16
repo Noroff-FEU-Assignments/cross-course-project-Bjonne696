@@ -41,6 +41,7 @@ npm run start
 ## Contributing
 
 This project is far from complete.
+
 Needs work on makeing the site responsive
 
 ## Contact
