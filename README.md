@@ -54,7 +54,7 @@ Javascript needs to be coded.
 
 To contact me, look me up on Linkedin or send me a Email. 
 
-[BJørn-Tore Moskaug Jaavall](www.linkedin.com)
+[Bjørn-Tore Moskaug Jaavall](www.linkedin.com)
 
 [Email adress](Bjonne696@gmail.com)
 
