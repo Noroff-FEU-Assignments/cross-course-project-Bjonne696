@@ -61,4 +61,7 @@ Email adress: Bjonne696@gmail.com
 ## Acknowledgments
 
 As mentioned in the contribute section, this project is not done.
-And later this semester I wil be making this repo private and reaplying a new one. As my skills in web development have improved.
+
+And later this semester I wil be making this repo private and reaplying a new one. 
+
+As my skills in web development have improved.
