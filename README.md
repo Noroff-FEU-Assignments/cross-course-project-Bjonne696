@@ -25,9 +25,9 @@ and Javascript
 
 ### Installing
 
-No dependecies are needed, everything should be available in the repository.
+No dependecies are needed, everything should be available in the repo.
 
-Clone the repo:
+Clone the repo: by following the link and copy the repo through git.
 
 ```bash
 https://github.com/Noroff-FEU-Assignments/cross-course-project-Bjonne696.git
@@ -56,11 +56,16 @@ This is where you can leave your social links for people to contact you, such as
 
 [My LinkedIn page](www.linkedin.com)
 
-## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
 ## Acknowledgments
 
 This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+
+
+
+
+
+git clone https://github.com/ratracegrad/ecommerce-demo
+cd ecommerce-demo
 
