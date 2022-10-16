@@ -43,17 +43,22 @@ npm run start
 This project is far from complete.
 
 Needs work on making the site responsive.
+
 Needs work with general css trough the whole project.
-Needs work on HTML in
+
+Needs work on the "Games" section.
+
+Javascript needs to be coded.
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+To contact me, look me up on Linkedin or send me a Email. 
 
-[My Twitter page](www.twitter.com)
+[BJørn-Tore Moskaug Jaavall](www.linkedin.com)
 
-[My LinkedIn page](www.linkedin.com)
+[Email adress](Bjonne696@gmail.com)
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+As mentioned in the contribute section, this project is not done.
+And later this semester I wil be making this repo private and reaplying a new one. As my skills in web development have improved.
