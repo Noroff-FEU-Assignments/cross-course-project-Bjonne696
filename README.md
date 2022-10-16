@@ -9,8 +9,13 @@ Secondly this project was used to demonstrate skills in interaction design and J
 ## Description
 
 The project is suposed to be a eCommerce website, where you coud trade in old games with other users.
+
 It includes acount creation with avatars as profile pictures.
+
 Lists new titles available for purchase, and if an acount is created it will also then list games that are available for a dicounted price.
+
+The pictures above are from the prototype built with AdobeXD.
+
 
 ## Built With
 
