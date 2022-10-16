@@ -32,16 +32,12 @@ No dependecies are needed, everything should be available in the repo.
 Clone the repo: by following the link and copy the repo through git.
 
 ```bash
-https://github.com/Noroff-FEU-Assignments/cross-course-project-Bjonne696.git
+git clone https://github.com/Noroff-FEU-Assignments/cross-course-project-Bjonne696.git
 ```
 
 ### Running
 
-To run the project, run the following commands:
-
-```bash
-npm run start
-```
+To run the project, simply clone the repo and open with code editor.
 
 ## Contributing
 
